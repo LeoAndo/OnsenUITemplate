@@ -1,5 +1,12 @@
 # OnsenUITemplate
 
+# development environment
+
+Monaca Cloud IDE<br>
+<img width="252" alt="スクリーンショット 2022-03-31 0 32 38" src="https://user-images.githubusercontent.com/16476224/160873524-df7f170f-ac66-49cb-93c0-1674058f1883.png">
+
+
+
 # How Use this template project.
 
 https://www.youtube.com/watch?v=RfYDvzZ39gc
